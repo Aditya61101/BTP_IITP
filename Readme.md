@@ -2,7 +2,7 @@
 # Bachelor's Thesis Project (BTP) in Power System and its Protection
 
 ## Overview
-This repository contains the code and documentation for my bachelor's thesis project conducted during my 7th and 8th semesters at IIT Patna. I did two projects in the whole year. The first project focused on shunt fault classification using machine learning, and the second project focused on fault detection using anomaly detection methods of machine learning.
+This repository contains the code and documentation for my bachelor's thesis project conducted during my 7th and 8th semesters at IIT Patna. I am doing two projects in the whole year. The first project focused on shunt fault classification using machine learning, and the second project which is currently going focuses on fault detection using anomaly detection methods of machine learning.
 
 ## Overview of the 1st project
 I successfully completed a fault classification project in the power system domain, utilizing machine learning techniques to enhance fault detection and analysis. The project aimed to improve the reliability and efficiency of power systems by accurately classifying different types of faults that can occur in transmission and distribution lines.
